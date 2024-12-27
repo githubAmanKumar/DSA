@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+// Search in Rotated Sorted Array | Binary Search | Leetcode 33
 int binaryRotatedSorted(vector<int> nums,int target){
     int n = nums.size();
     int st = 0;
