@@ -6,6 +6,7 @@ using namespace std;
 
 // Aggressive Cows Problem | DSA Placement Series - Binary Search | Lecture 23
 
+
 bool isPossible(vector<int> &arr, int N,int C,int minAllowedDistance){ // O(n)
     int Cows=1, lastStallPos=arr[0];
 
